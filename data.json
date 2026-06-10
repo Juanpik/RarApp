@@ -27,7 +27,7 @@
     { "id": 25, "raramuri": "kiribá", "spanish": "quelite", "image": "images/kiribá.jpg", "category": "Comida y bebida" },
     { "id": 26, "raramuri": "kiyóchi", "spanish": "zorro", "image": "images/kiyóchi.jpg", "category": "Animales" },
     { "id": 27, "raramuri": "kobisi", "spanish": "pinole", "image": "images/kobisi.jpg", "category": "Comida y bebida" },
-    { "id": 28, "raramuri": "kochí", "spanish": "cerdo", "image": "images/kochi.jpg", "category": "Animales", "audio": "audio/kochí.mp3" },
+    { "id": 28, "raramuri": "kóchi", "spanish": "cerdo", "image": "images/kochi.jpg", "category": "Animales", "audio": "audio/kóchi.mp3" },
     { "id": 29, "raramuri": "ku", "spanish": "leña", "image": "images/ku.jpg", "category": "Objetos" },
     { "id": 30, "raramuri": "kupá", "spanish": "caballo", "image": "images/kupá.jpg", "category": "Animales" },
     { "id": 31, "raramuri": "kusabí", "spanish": "cereza", "image": "images/kusabí.jpg", "category": "Comida y bebida" },
