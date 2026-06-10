@@ -62,7 +62,7 @@
     { "id": 60, "raramuri": "rochaká", "spanish": "lagartija", "image": "images/rochaká.jpg", "category": "Animales" },
     { "id": 61, "raramuri": "rojuí", "spanish": "bellota", "image": "images/rojuí.jpg", "category": "Comida y bebida" },
     { "id": 62, "raramuri": "rokó", "spanish": "noche", "image": "images/rokó.jpg", "category": "Naturaleza" },
-    { "id": 63, "raramuri": "ro'chí", "spanish": "pescado", "image": "images/ro'chí.jpg", "category": "Animales" },
+    { "id": 63, "raramuri": "ro'chí", "spanish": "pescado", "image": "images/ro'chí.jpg", "category": "Animales", "audio": "audio/rochí.mp3" },
     { "id": 64, "raramuri": "rosákame", "spanish": "blanco", "image": "images/rosákame.jpg", "category": "Adjetivos" },
     { "id": 65, "raramuri": "sawarókame", "spanish": "amarillo", "image": "images/sawarókame.jpg", "category": "Adjetivos" },
     { "id": 66, "raramuri": "sewá", "spanish": "flor", "image": "images/sewá.jpg", "category": "Naturaleza" },
